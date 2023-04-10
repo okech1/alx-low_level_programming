@@ -22,4 +22,4 @@ w = write(STDOUT_FILENO, buf, t);
 free(buf);
 close(fd);
 return (w);
-}#
+}
