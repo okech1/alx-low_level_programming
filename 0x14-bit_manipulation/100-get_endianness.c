@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * get_endianness - identifies whether a machine uses little or big endian byte ordering
+ * get_endianness - checks whether a machine is little or big endian
  * Return: 0 for big, 1 for little
  */
 int get_endianness(void)
